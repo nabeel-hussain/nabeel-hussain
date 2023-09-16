@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Nabeel Hussain! 👋
 
-<!--
-**nabeel-hussain/nabeel-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nabeel-hussain-94465311b/)
+
+
+## **I'm a Senior Software Engineer and Senior Full-Stack Developer**
+
+- 🎯 **I’m currently working on**: Learning Advanced Topics in Software Architecture, System Design, ReactJS, .NET, Python REST API frameworks, Microservices, and more. 
+- 💬 **Ask me about**: .NET, RESTful APIs, SQL and NoSQL Databases, CI/CD, ReactJs, TypeScript, Python Flask, Python FastAPI, Azure Cloud
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+- ⚡ **Fun fact**: I love to read 📚 and crack new technologies. 
+
+<hr/>
